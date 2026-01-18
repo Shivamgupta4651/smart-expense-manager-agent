@@ -1,0 +1,28 @@
+# Core Dependencies
+requests==2.31.0
+python-dateutil==2.8.2
+
+# Database
+sqlite3-python==1.0.0
+
+# Data Processing
+pandas==2.0.0
+numpy==1.24.0
+
+# Machine Learning (for categorization)
+scikit-learn==1.2.0
+
+# Android Integration (Droidrun specific)
+# These are platform-specific and installed via Droidrun SDK
+
+# Testing
+pytest==7.0.0
+pytest-cov==4.0.0
+
+# Code Quality
+black==23.0.0
+flake8==6.0.0
+
+# Documentation
+sphinx==6.0.0
+sphinx-rtd-theme==1.2.0
